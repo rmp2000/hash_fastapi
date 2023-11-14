@@ -28,13 +28,13 @@ This FastAPI application provides an API to receive text and generate different 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your_username/your_project.git
-    cd your_project
+    git clone https://github.com/rmp2000/hash_fastapi.git
     ```
 
 2. Create a virtual environment and activate it:
 
     ```bash
+    cd hash_fastapi
     python -m venv venv
     source venv/bin/activate   # For Windows: venv\Scripts\activate
     ```
